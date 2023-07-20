@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Animagus</h1>
-<h3 align="center">A passionate software developer from India</h3>
+
+<div align = "center">
+<img src = "anime.gif"  />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/animagus12/count.svg?"  />
@@ -24,7 +29,7 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 ###
 
-<img align="right" height="150" src="https://imgur.com/a/OjljM7F"  />
+<img align = "right" height = "180" src = "giff.gif"  />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -113,8 +118,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=animagus12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=animagus12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  
 </div>
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animagus12&" alt="animagus12" /></div>
 
+<br>
 <p align = "center"> <img src="https://komarev.com/ghpvc/?username=animagus12&label=Profile%20views&color=0e75b6&style=flat" alt="animagus12" /> </p>
