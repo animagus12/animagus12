@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animagus</h1>
 
 <div align = "center">
-<img src = "anime.gif"  />
+  <img src = "anime.gif"  />
 </div>
 
 <br>
